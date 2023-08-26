@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232941096581",
+    "project_id": "authenticationdb-3c606",
+    "storage_bucket": "authenticationdb-3c606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232941096581:android:7943955e26ff9860eea3ec",
+        "android_client_info": {
+          "package_name": "com.example.studentaccommodation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232941096581-ecl745miqke7r92uhhc5if1s5ioto6a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhkAP5EqUUrHapKjMFAP-5lgRdBlyLUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232941096581-ecl745miqke7r92uhhc5if1s5ioto6a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
